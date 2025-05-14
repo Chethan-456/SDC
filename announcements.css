@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins", sans-serif
 }
 
 .sidebar {
@@ -609,12 +609,15 @@
 }
 .repo-description {
     display: flex;
-    font-size: 1rem;
+    font-size: .9rem;
     color: #586069;
     margin-top: 0.5rem;
     line-height: 1.5;
     align-items: center;
     justify-content: center;
+    font-weight: bold;
+    
+
 }
 
 .repo-card {
